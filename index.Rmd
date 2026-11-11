@@ -1,5 +1,5 @@
 ---
-title: "MyLabJournal"
+title: "River Dolphin Pink"
 output: html_document
 ---
 
@@ -17,27 +17,25 @@ output: html_document
 <div class="row" style="padding-top: 30px;">
 <div class="col-sm-6">
 
-# **My Lab Journal**
+# **River Dolphin Pink**
 
-This is a template example for lab journaling. Students in Matt Crump's Human Cognition and Performance Lab will use this template to learn R, and other things. Students can replace this text with more fun things. People not in my lab can use this too.
-
-## How to use
-
-1. fork the repo for this website and follow instructions on read me to get set up. [https://github.com/CrumpLab/LabJournalWebsite](https://github.com/CrumpLab/LabJournalWebsite)
-
-2. Blog/journal what you are doing in R, by editing the Journal.Rmd. See the [Journal page](https://crumplab.github.io/LabJournalWebsite/Journal.html) for an example of what to do to get started learning R.
-
-3. See the [links page](https://crumplab.github.io/LabJournalWebsite/Links.html) for lots of helpful links on learning R.
-
-4. Change everything to make it your own.
+River Dolphin Pink is a Vancouver-based band creating nostalgic and dreamlike songs. Drawing on childhood memories of growing up in Alberta, alongside relationships and everyday moments, the five-piece writes music that feels like snapshots from a journal while never sacrificing honesty. Their songs turn small details into vivid, sincere, and slightly surreal stories, balancing real world observation with playful imagery and a sense of humour. RDP’s sound sits between indie rock, folk, pop and twee with a  focus on catchy vocal melodies. Their live shows are a spectrum from high energy to sweet and tender feelings, with an unpolished, playful stage presence that aims to be authentic. Their performances welcome a feel that pulls audiences in to the set to get people dancing and laughing. With a growing presence in Vancouver’s local music scene, River Dolphin Pink is currently working on recording their first album.
 
 
-</div>
+## Links
+
+Instagram [https://www.instagram.com/river.dolphin.pink/](https://www.instagram.com/river.dolphin.pink/)
+
+Bandcamp [https://riverdolphinpink.bandcamp.com/album/rdp-demos](https://riverdolphinpink.bandcamp.com/album/rdp-demos) 
+
+Soundcloud [https://soundcloud.com/river-dolphin-pink](https://soundcloud.com/river-dolphin-pink) 
+
+
 <div class="col-sm-6">
 
-### [Crump Lab: Human Cognition and Performance](https://crumplab.github.io)
+<img src="images/Angie_Easton.jpg" alt="Mossing band photo" width="100%">
 
-<a href = "https://crumplab.github.io">
-![](images/logo.png)
+</div>
+
 </a>
 </div>
